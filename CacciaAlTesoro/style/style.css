@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://9968c6ef49dc043599a5-e151928c3d69a5a4a2d07a8bf3efa90a.ssl.cf2.rackcdn.com/69339-8.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:purple; 
+    text-align: center;
+    background-color: lightskyblue;
+    
+    
+}
+#myTable{
+    margin:auto;
+    align-items: center;
+    
+}
+td{
+    border: black solid 2px; 
+    border-collapse: separate; 
+    cursor: pointer;
+    box-shadow: 0 9px #999;
+    border-radius: 5px;
+    padding: auto;
+    background-color: lightgreen
+}
+td:active{
+    box-shadow: 0 5px #666;
+    transform: translateY(3px);
+}
+#bottone{
+    border-radius: 5px;
+    
+}
+ 
+
